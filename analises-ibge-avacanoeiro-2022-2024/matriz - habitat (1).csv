@@ -1,0 +1,12 @@
+Biomas,Nome_bioma,anth_nigr,calli_ameth,chion_fimbr,chlor_luci,chyr_mosq,chyr_versi,colib_serri,eupet_macr,helio_furc,helio_squa,helioac_bilop,loph_magn,phaet_pret,phaet_ruber,polyt_guain,thal_furc,thal_glau
+0,nao_identificado,0,0,1,0,0,0,0,15,0,0,2,0,0,0,0,1,0
+3,floresta,1,0,41,9,0,4,0,94,0,0,9,2,9,10,2,100,0
+4,savana,29,16,240,119,3,38,3,551,9,4,81,65,25,61,6,444,0
+11,campo_alagado,0,1,2,1,0,1,0,78,0,0,1,0,0,0,0,12,0
+12,campestre,3,0,25,24,2,1,0,188,0,4,166,3,10,0,2,65,0
+15,pastagem,12,6,48,28,0,8,0,94,6,3,26,19,10,5,0,71,0
+21,mosaico_de_usos,14,10,103,13,5,4,0,285,0,8,12,7,11,4,1,106,0
+24,area_urbana,8,19,254,11,7,7,1,2870,7,10,4,8,15,0,3,174,2
+25,areas_nao_vegetadas,0,1,39,6,0,2,0,74,1,0,3,1,0,0,0,13,0
+33,corpo_de_agua,0,2,3,4,0,0,0,6,0,0,3,0,0,0,2,2,0
+48,lavoura_perenes,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
